@@ -1,0 +1,10 @@
+<template>
+  <div>
+    <header>
+      <Navigation/>
+    </header>
+    <main>
+      <nuxt-page/>
+    </main>
+  </div>
+</template>
